@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lixuepeng33F
-- 👀 I’m interested in springboot and knownledge graph
+- 👀 I’m interested in springboot and knowledge graph
 - 🌱 I’m currently learning usage about neo4j 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : mail to leexp1996@163.com
